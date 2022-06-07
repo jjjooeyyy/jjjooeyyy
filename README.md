@@ -6,6 +6,6 @@
 
 👯 I’m looking to collaborate on creating website 
 
-📫 Find me on Instagram @hello.word_coder 
+📫 Find me on [Instagram] (https://www.instagram.com/hello.world_coder/)
 
 👩🏻‍💻 Join me on the #100daysofcodechallenge
