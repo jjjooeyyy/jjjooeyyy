@@ -1,4 +1,4 @@
-Hi there I'm Joey, aspiring full-stack developer👋
+## Hi there I'm Joey, aspiring full-stack developer👋
 
 🌱 I’m currently studying CS Master Degree @university of york
 
