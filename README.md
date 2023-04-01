@@ -8,4 +8,4 @@
 
 📫 Find me on Instagram [@hello.world_coder](https://www.instagram.com/hello.world_coder/)
 
-👩🏻‍💻 Join me on the #100daysofcodechallenge
+👩🏻‍💻 Join me on the #365daysofcodechallenge
